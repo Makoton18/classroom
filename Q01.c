@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
 main()
 {
-    printf("’†‘ºžx\b");
+    printf("Makoto\a");
 }
